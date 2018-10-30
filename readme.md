@@ -12,6 +12,10 @@ Edit your project's `composer.json` file to require `dinesh/bugonemail`.
 		"dinesh/bugonemail": "5.*@dev"
 	}
 
+**NOTICE:** For Laravel 4.x use
+ - 1.x Releases
+ - 4.x Branch
+
 Next, update Composer from the Terminal:
 
     composer update
